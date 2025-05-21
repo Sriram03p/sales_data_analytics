@@ -1,0 +1,7 @@
+Date,Region,Product,Units Sold,Revenue
+2024-05-01,North,Widget A,100,1000
+2024-05-01,South,Widget B,50,750
+2024-05-01,East,Widget C,70,910
+2024-05-02,North,Widget A,120,1300
+2024-05-02,South,Widget B,,800
+2024-05-02,East,Widget C,65,NaN

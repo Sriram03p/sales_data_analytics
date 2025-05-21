@@ -1,0 +1,5 @@
+date,region,product,units_sold,revenue,revenue_per_unit
+2024-05-01,North,Widget A,100.0,1000.0,10.0
+2024-05-01,South,Widget B,50.0,750.0,15.0
+2024-05-01,East,Widget C,70.0,910.0,13.0
+2024-05-02,North,Widget A,120.0,1300.0,10.833333333333334
